@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Amber Bruil <abruil@varsitycollege.co.za>
+ * @author Simon Noah Slingerland ST10438897@vcconnect.edu.za St10438897
  */
 public class MyRectangleProject
 {

@@ -1,9 +1,6 @@
 package myrectangleproject;
 
-/**
- * 
- * @author Amber Bruil <abruil@varsitycollege.co.za>
- */
+
 public class Rectangle {
 
     // Class fields
